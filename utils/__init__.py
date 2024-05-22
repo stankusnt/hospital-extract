@@ -14,7 +14,7 @@ def retrieve_urls(data_set_list: list) -> list[str]:
     return url_list
 
 # Use regex to transform any phrases/strings to snake case
-def snake_case(input:str):
+def snake_case(input:str) -> str:
     input.replace('/', ' ')
     return '_'.join(
         sub('([A-Z][a-z]+)', r' \1',
