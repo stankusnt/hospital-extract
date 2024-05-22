@@ -1,0 +1,173 @@
+INFO:root:Index(['@type', 'identifier', 'title', 'description', 'keyword', 'issued',
+       'modified', 'released', 'distribution', 'landingPage', 'theme',
+       'accessLevel', 'bureauCode', 'contactPoint', 'publisher', 'programCode',
+       'archiveExclude'],
+      dtype='object')
+INFO:root:Retrieved metadata
+INFO:root:Retrieved metadata
+INFO:root:Retrieved metadata
+INFO:root:Retrieved metadata
+INFO:root:Retrieved metadata
+INFO:root:Retrieved metadata
+INFO:root:Retrieved metadata
+INFO:root:Retrieved metadata
+INFO:root:Retrieved metadata
+INFO:root:Retrieved metadata
+INFO:root:Retrieved metadata
+INFO:root:Retrieved metadata
+INFO:root:/Users/stankusnt/hospital-extract/collection/ASCQR_OAS_CAHPS_BY_ASC has been created at 2024-05-21 16:42:42.871157.
+INFO:root:Retrieved metadata
+INFO:root:/Users/stankusnt/hospital-extract/collection/ASCQR_OAS_CAHPS_BY_ASC.csv has been created at 2024-05-21 16:43:22.415547.
+INFO:root:Retrieved metadata
+INFO:root:Retrieved metadata
+INFO:root:Retrieved metadata
+INFO:root:/Users/stankusnt/hospital-extract/collection/ASCQR_OAS_CAHPS_BY_ASC.csv has had data inserted at 2024-05-21 16:48:55.713324.
+INFO:root:Retrieved metadata
+INFO:root:/Users/stankusnt/hospital-extract/collection/ASCQR_OAS_CAHPS_BY_ASC.csv has been created at 2024-05-21 16:49:14.915136.
+INFO:root:Retrieved metadata
+INFO:root:/Users/stankusnt/hospital-extract/collection/ASCQR_OAS_CAHPS_BY_ASC.csv has had data inserted at 2024-05-21 16:49:34.992004.
+INFO:root:/Users/stankusnt/hospital-extract/collection/ASC_Facility.csv has been created at 2024-05-21 16:49:35.504446.
+INFO:root:/Users/stankusnt/hospital-extract/collection/ASC_National.csv has been created at 2024-05-21 16:49:35.899732.
+INFO:root:/Users/stankusnt/hospital-extract/collection/ASCQR_OAS_CAHPS_NATIONAL.csv has been created at 2024-05-21 16:49:36.151125.
+INFO:root:/Users/stankusnt/hospital-extract/collection/ASC_State.csv has been created at 2024-05-21 16:49:36.374176.
+INFO:root:/Users/stankusnt/hospital-extract/collection/ASCQR_OAS_CAHPS_STATE.csv has been created at 2024-05-21 16:49:36.649774.
+INFO:root:/Users/stankusnt/hospital-extract/collection/CJR_Quality_Reporting_January_2024_Production_File.csv has been created at 2024-05-21 16:49:36.929494.
+INFO:root:/Users/stankusnt/hospital-extract/collection/CMS_PSI_6_decimal_file.csv has been created at 2024-05-21 16:49:37.703691.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Complications_and_Deaths-Hospital.csv has been created at 2024-05-21 16:49:39.429565.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Complications_and_Deaths-National.csv has been created at 2024-05-21 16:49:40.451304.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Complications_and_Deaths-State.csv has been created at 2024-05-21 16:49:40.721882.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Footnote_Crosswalk.csv has been created at 2024-05-21 16:49:40.933602.
+INFO:root:/Users/stankusnt/hospital-extract/collection/OAS_CAHPS_Footnotes.csv has been created at 2024-05-21 16:49:41.220458.
+INFO:root:/Users/stankusnt/hospital-extract/collection/FY2021_Distribution_of_Net_Change_in_Base_Op_DRG_Payment_Amt.csv has been created at 2024-05-21 16:49:41.506996.
+INFO:root:/Users/stankusnt/hospital-extract/collection/FY2021_Net_Change_in_Base_Op_DRG_Payment_Amt.csv has been created at 2024-05-21 16:49:41.698576.
+INFO:root:/Users/stankusnt/hospital-extract/collection/FY2021_Percent_Change_in_Medicare_Payments.csv has been created at 2024-05-21 16:49:41.888991.
+INFO:root:/Users/stankusnt/hospital-extract/collection/FY2021_Value_Based_Incentive_Payment_Amount.csv has been created at 2024-05-21 16:49:42.089977.
+INFO:root:/Users/stankusnt/hospital-extract/collection/HCAHPS-Hospital.csv has been created at 2024-05-21 16:49:47.677372.
+INFO:root:/Users/stankusnt/hospital-extract/collection/HCAHPS-National.csv has been created at 2024-05-21 16:49:52.301642.
+INFO:root:/Users/stankusnt/hospital-extract/collection/HCAHPS-State.csv has been created at 2024-05-21 16:49:52.637163.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Healthcare_Associated_Infections-Hospital.csv has been created at 2024-05-21 16:49:55.584546.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Healthcare_Associated_Infections-National.csv has been created at 2024-05-21 16:49:57.138387.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Healthcare_Associated_Infections-State.csv has been created at 2024-05-21 16:49:57.456282.
+INFO:root:/Users/stankusnt/hospital-extract/collection/OQR_OAS_CAHPS_BY_HOSPITAL.csv has been created at 2024-05-21 16:49:57.767335.
+INFO:root:/Users/stankusnt/hospital-extract/collection/OQR_OAS_CAHPS_NATIONAL.csv has been created at 2024-05-21 16:49:58.072931.
+INFO:root:/Users/stankusnt/hospital-extract/collection/OQR_OAS_CAHPS_STATE.csv has been created at 2024-05-21 16:49:58.316038.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Hospital_General_Information.csv has been created at 2024-05-21 16:49:58.828829.
+INFO:root:/Users/stankusnt/hospital-extract/collection/PCH_Unplanned_Hospital_Visits_HOSPITAL.csv has been created at 2024-05-21 16:49:59.150953.
+INFO:root:/Users/stankusnt/hospital-extract/collection/PCH_Unplanned_Hospital_Visits_NATIONAL.csv has been created at 2024-05-21 16:49:59.368991.
+INFO:root:/Users/stankusnt/hospital-extract/collection/FY_2024_HAC_Reduction_Program_Hospital.csv has been created at 2024-05-21 16:49:59.738940.
+INFO:root:/Users/stankusnt/hospital-extract/collection/HOSPITAL_QUARTERLY_MSPB_6_DECIMALS.csv has been created at 2024-05-21 16:50:00.063639.
+INFO:root:/Users/stankusnt/hospital-extract/collection/PCH_HEALTHCARE_ASSOCIATED_INFECTIONS_HOSPITAL.csv has been created at 2024-05-21 16:50:00.323068.
+INFO:root:/Users/stankusnt/hospital-extract/collection/PCH_HCAHPS_HOSPITAL.csv has been created at 2024-05-21 16:50:00.669246.
+INFO:root:/Users/stankusnt/hospital-extract/collection/PCH_HCAHPS_NATIONAL.csv has been created at 2024-05-21 16:50:00.885357.
+INFO:root:/Users/stankusnt/hospital-extract/collection/PCH_HCAHPS_STATE.csv has been created at 2024-05-21 16:50:01.229524.
+INFO:root:/Users/stankusnt/hospital-extract/collection/FY_2024_Hospital_Readmissions_Reduction_Program_Hospital.csv has been created at 2024-05-21 16:50:01.756304.
+INFO:root:/Users/stankusnt/hospital-extract/collection/hvbp_clinical_outcomes.csv has been created at 2024-05-21 16:50:02.413804.
+INFO:root:/Users/stankusnt/hospital-extract/collection/hvbp_efficiency_and_cost_reduction.csv has been created at 2024-05-21 16:50:02.826560.
+INFO:root:/Users/stankusnt/hospital-extract/collection/hvbp_person_and_community_engagement.csv has been created at 2024-05-21 16:50:03.257324.
+INFO:root:/Users/stankusnt/hospital-extract/collection/hvbp_safety.csv has been created at 2024-05-21 16:50:03.688243.
+INFO:root:/Users/stankusnt/hospital-extract/collection/hvbp_tps.csv has been created at 2024-05-21 16:50:04.083516.
+INFO:root:/Users/stankusnt/hospital-extract/collection/IPFQR_QualityMeasures_Facility.csv has been created at 2024-05-21 16:50:04.726037.
+INFO:root:/Users/stankusnt/hospital-extract/collection/IPFQR_QualityMeasures_National.csv has been created at 2024-05-21 16:50:05.041427.
+INFO:root:/Users/stankusnt/hospital-extract/collection/IPFQR_QualityMeasures_State.csv has been created at 2024-05-21 16:50:05.282984.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Measure_Dates.csv has been created at 2024-05-21 16:50:05.528555.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Medicare_Hospital_Spending_by_Claim.csv has been created at 2024-05-21 16:50:06.342516.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Medicare_Hospital_Spending_Per_Patient-Hospital.csv has been created at 2024-05-21 16:50:07.368350.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Medicare_Hospital_Spending_Per_Patient-National.csv has been created at 2024-05-21 16:50:07.627794.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Medicare_Hospital_Spending_Per_Patient-State.csv has been created at 2024-05-21 16:50:07.906645.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Outpatient_Imaging_Efficiency-Hospital.csv has been created at 2024-05-21 16:50:08.725480.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Outpatient_Imaging_Efficiency-National.csv has been created at 2024-05-21 16:50:09.216131.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Outpatient_Imaging_Efficiency-State.csv has been created at 2024-05-21 16:50:09.509298.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Payment-National.csv has been created at 2024-05-21 16:50:09.830175.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Payment-State.csv has been created at 2024-05-21 16:50:10.098876.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Payment_and_Value_of_Care-Hospital.csv has been created at 2024-05-21 16:50:11.588672.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Timely_and_Effective_Care-Hospital.csv has been created at 2024-05-21 16:50:13.575199.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Timely_and_Effective_Care-National.csv has been created at 2024-05-21 16:50:14.788419.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Timely_and_Effective_Care-State.csv has been created at 2024-05-21 16:50:15.068689.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Unplanned_Hospital_Visits-Hospital.csv has been created at 2024-05-21 16:50:16.268212.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Unplanned_Hospital_Visits-National.csv has been created at 2024-05-21 16:50:17.300475.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Unplanned_Hospital_Visits-State.csv has been created at 2024-05-21 16:50:17.613188.
+INFO:root:/Users/stankusnt/hospital-extract/collection/VA_IPF.csv has been created at 2024-05-21 16:50:17.873483.
+INFO:root:/Users/stankusnt/hospital-extract/collection/VA_TE.csv has been created at 2024-05-21 16:50:18.169264.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Value_of_Care-National.csv has been created at 2024-05-21 16:50:18.455928.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Veterans_Health_Administration_Provider_Level_Data.csv has been created at 2024-05-21 16:50:18.657556.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Data_Updates_April_2024.csv has been created at 2024-05-21 16:50:18.907551.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Maternal_Health-Hospital.csv has been created at 2024-05-21 16:50:19.402334.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Maternal_Health-National.csv has been created at 2024-05-21 16:50:19.786558.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Maternal_Health-State.csv has been created at 2024-05-21 16:50:19.992803.
+INFO:root:Retrieved metadata
+INFO:root:/Users/stankusnt/hospital-extract/collection/ASCQR_OAS_CAHPS_BY_ASC.csv has had data inserted at 2024-05-21 16:52:52.716152.
+INFO:root:Retrieved metadata
+INFO:root:/Users/stankusnt/hospital-extract/collection/ASCQR_OAS_CAHPS_BY_ASC.csv has had data inserted at 2024-05-21 16:53:14.067465.
+INFO:root:Retrieved metadata
+INFO:root:Retrieved metadata
+INFO:root:/Users/stankusnt/hospital-extract/collection/ASCQR_OAS_CAHPS_BY_ASC.csv has had data inserted at 2024-05-21 16:55:52.410344.
+INFO:root:Retrieved metadata
+INFO:root:/Users/stankusnt/hospital-extract/collection/ASCQR_OAS_CAHPS_BY_ASC.csv has had data inserted at 2024-05-21 16:57:25.946503.
+INFO:root:/Users/stankusnt/hospital-extract/collection/ASC_Facility.csv has had data inserted at 2024-05-21 16:57:26.411790.
+INFO:root:/Users/stankusnt/hospital-extract/collection/ASC_National.csv has had data inserted at 2024-05-21 16:57:27.265378.
+INFO:root:/Users/stankusnt/hospital-extract/collection/ASCQR_OAS_CAHPS_NATIONAL.csv has had data inserted at 2024-05-21 16:57:27.475180.
+INFO:root:/Users/stankusnt/hospital-extract/collection/ASC_State.csv has had data inserted at 2024-05-21 16:57:27.697582.
+INFO:root:/Users/stankusnt/hospital-extract/collection/ASCQR_OAS_CAHPS_STATE.csv has had data inserted at 2024-05-21 16:57:27.901642.
+INFO:root:/Users/stankusnt/hospital-extract/collection/CJR_Quality_Reporting_January_2024_Production_File.csv has had data inserted at 2024-05-21 16:57:28.134344.
+INFO:root:/Users/stankusnt/hospital-extract/collection/CMS_PSI_6_decimal_file.csv has had data inserted at 2024-05-21 16:57:29.401557.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Complications_and_Deaths-Hospital.csv has had data inserted at 2024-05-21 16:57:31.575468.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Complications_and_Deaths-National.csv has had data inserted at 2024-05-21 16:57:33.482612.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Complications_and_Deaths-State.csv has had data inserted at 2024-05-21 16:57:33.808691.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Footnote_Crosswalk.csv has had data inserted at 2024-05-21 16:57:34.265542.
+INFO:root:/Users/stankusnt/hospital-extract/collection/OAS_CAHPS_Footnotes.csv has had data inserted at 2024-05-21 16:57:34.489631.
+INFO:root:/Users/stankusnt/hospital-extract/collection/FY2021_Distribution_of_Net_Change_in_Base_Op_DRG_Payment_Amt.csv has had data inserted at 2024-05-21 16:57:34.749974.
+INFO:root:/Users/stankusnt/hospital-extract/collection/FY2021_Net_Change_in_Base_Op_DRG_Payment_Amt.csv has had data inserted at 2024-05-21 16:57:34.951804.
+INFO:root:/Users/stankusnt/hospital-extract/collection/FY2021_Percent_Change_in_Medicare_Payments.csv has had data inserted at 2024-05-21 16:57:35.261129.
+INFO:root:/Users/stankusnt/hospital-extract/collection/FY2021_Value_Based_Incentive_Payment_Amount.csv has had data inserted at 2024-05-21 16:57:35.726496.
+INFO:root:/Users/stankusnt/hospital-extract/collection/HCAHPS-Hospital.csv has had data inserted at 2024-05-21 16:57:42.084047.
+INFO:root:/Users/stankusnt/hospital-extract/collection/HCAHPS-National.csv has had data inserted at 2024-05-21 16:57:51.195616.
+INFO:root:/Users/stankusnt/hospital-extract/collection/HCAHPS-State.csv has had data inserted at 2024-05-21 16:57:51.591180.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Healthcare_Associated_Infections-Hospital.csv has had data inserted at 2024-05-21 16:57:53.921849.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Healthcare_Associated_Infections-National.csv has had data inserted at 2024-05-21 16:57:57.150499.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Healthcare_Associated_Infections-State.csv has had data inserted at 2024-05-21 16:57:57.472857.
+INFO:root:/Users/stankusnt/hospital-extract/collection/OQR_OAS_CAHPS_BY_HOSPITAL.csv has had data inserted at 2024-05-21 16:57:57.860507.
+INFO:root:/Users/stankusnt/hospital-extract/collection/OQR_OAS_CAHPS_NATIONAL.csv has had data inserted at 2024-05-21 16:57:58.117241.
+INFO:root:/Users/stankusnt/hospital-extract/collection/OQR_OAS_CAHPS_STATE.csv has had data inserted at 2024-05-21 16:57:58.341812.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Hospital_General_Information.csv has had data inserted at 2024-05-21 16:57:58.769895.
+INFO:root:/Users/stankusnt/hospital-extract/collection/PCH_Unplanned_Hospital_Visits_HOSPITAL.csv has had data inserted at 2024-05-21 16:57:59.139906.
+INFO:root:/Users/stankusnt/hospital-extract/collection/PCH_Unplanned_Hospital_Visits_NATIONAL.csv has had data inserted at 2024-05-21 16:57:59.362732.
+INFO:root:/Users/stankusnt/hospital-extract/collection/FY_2024_HAC_Reduction_Program_Hospital.csv has had data inserted at 2024-05-21 16:57:59.742509.
+INFO:root:/Users/stankusnt/hospital-extract/collection/HOSPITAL_QUARTERLY_MSPB_6_DECIMALS.csv has had data inserted at 2024-05-21 16:58:00.347686.
+INFO:root:/Users/stankusnt/hospital-extract/collection/PCH_HEALTHCARE_ASSOCIATED_INFECTIONS_HOSPITAL.csv has had data inserted at 2024-05-21 16:58:00.651069.
+INFO:root:/Users/stankusnt/hospital-extract/collection/PCH_HCAHPS_HOSPITAL.csv has had data inserted at 2024-05-21 16:58:00.954205.
+INFO:root:/Users/stankusnt/hospital-extract/collection/PCH_HCAHPS_NATIONAL.csv has had data inserted at 2024-05-21 16:58:01.190769.
+INFO:root:/Users/stankusnt/hospital-extract/collection/PCH_HCAHPS_STATE.csv has had data inserted at 2024-05-21 16:58:01.661262.
+INFO:root:/Users/stankusnt/hospital-extract/collection/FY_2024_Hospital_Readmissions_Reduction_Program_Hospital.csv has had data inserted at 2024-05-21 16:58:02.153159.
+INFO:root:/Users/stankusnt/hospital-extract/collection/hvbp_clinical_outcomes.csv has had data inserted at 2024-05-21 16:58:02.902056.
+INFO:root:/Users/stankusnt/hospital-extract/collection/hvbp_efficiency_and_cost_reduction.csv has had data inserted at 2024-05-21 16:58:03.462132.
+INFO:root:/Users/stankusnt/hospital-extract/collection/hvbp_person_and_community_engagement.csv has had data inserted at 2024-05-21 16:58:04.079642.
+INFO:root:/Users/stankusnt/hospital-extract/collection/hvbp_safety.csv has had data inserted at 2024-05-21 16:58:04.555888.
+INFO:root:/Users/stankusnt/hospital-extract/collection/hvbp_tps.csv has had data inserted at 2024-05-21 16:58:04.973993.
+INFO:root:/Users/stankusnt/hospital-extract/collection/IPFQR_QualityMeasures_Facility.csv has had data inserted at 2024-05-21 16:58:05.466272.
+INFO:root:/Users/stankusnt/hospital-extract/collection/IPFQR_QualityMeasures_National.csv has had data inserted at 2024-05-21 16:58:05.824378.
+INFO:root:/Users/stankusnt/hospital-extract/collection/IPFQR_QualityMeasures_State.csv has had data inserted at 2024-05-21 16:58:06.070922.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Measure_Dates.csv has had data inserted at 2024-05-21 16:58:06.280245.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Medicare_Hospital_Spending_by_Claim.csv has had data inserted at 2024-05-21 16:58:07.025904.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Medicare_Hospital_Spending_Per_Patient-Hospital.csv has had data inserted at 2024-05-21 16:58:08.414077.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Medicare_Hospital_Spending_Per_Patient-National.csv has had data inserted at 2024-05-21 16:58:08.734587.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Medicare_Hospital_Spending_Per_Patient-State.csv has had data inserted at 2024-05-21 16:58:08.990489.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Outpatient_Imaging_Efficiency-Hospital.csv has had data inserted at 2024-05-21 16:58:09.786834.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Outpatient_Imaging_Efficiency-National.csv has had data inserted at 2024-05-21 16:58:10.455708.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Outpatient_Imaging_Efficiency-State.csv has had data inserted at 2024-05-21 16:58:10.669945.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Payment-National.csv has had data inserted at 2024-05-21 16:58:10.889048.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Payment-State.csv has had data inserted at 2024-05-21 16:58:11.258089.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Payment_and_Value_of_Care-Hospital.csv has had data inserted at 2024-05-21 16:58:11.907387.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Timely_and_Effective_Care-Hospital.csv has had data inserted at 2024-05-21 16:58:14.320018.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Timely_and_Effective_Care-National.csv has had data inserted at 2024-05-21 16:58:16.267471.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Timely_and_Effective_Care-State.csv has had data inserted at 2024-05-21 16:58:16.585007.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Unplanned_Hospital_Visits-Hospital.csv has had data inserted at 2024-05-21 16:58:17.929241.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Unplanned_Hospital_Visits-National.csv has had data inserted at 2024-05-21 16:58:19.493310.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Unplanned_Hospital_Visits-State.csv has had data inserted at 2024-05-21 16:58:19.746092.
+INFO:root:/Users/stankusnt/hospital-extract/collection/VA_IPF.csv has had data inserted at 2024-05-21 16:58:20.010225.
+INFO:root:/Users/stankusnt/hospital-extract/collection/VA_TE.csv has had data inserted at 2024-05-21 16:58:20.378711.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Value_of_Care-National.csv has had data inserted at 2024-05-21 16:58:20.732778.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Veterans_Health_Administration_Provider_Level_Data.csv has had data inserted at 2024-05-21 16:58:20.956467.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Data_Updates_April_2024.csv has had data inserted at 2024-05-21 16:58:21.213707.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Maternal_Health-Hospital.csv has had data inserted at 2024-05-21 16:58:21.756093.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Maternal_Health-National.csv has had data inserted at 2024-05-21 16:58:22.215608.
+INFO:root:/Users/stankusnt/hospital-extract/collection/Maternal_Health-State.csv has had data inserted at 2024-05-21 16:58:22.433829.
